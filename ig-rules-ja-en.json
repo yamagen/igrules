@@ -1,0 +1,54 @@
+{
+  "_license": "This JSON file is licensed under CC-BY-SA 4.0",
+  "author": "Hilofumi Yamamoto, Ph.D.",
+  "affiliation": "Institute of Science Tokyo",
+  "rules": [
+    {
+      "id": "noun-ending",
+      "title-ja": "名詞で終わる文を認める",
+      "title-en": "Allowing Sentences Ending with Nouns",
+      "description-ja": "名詞で文を終えることは、調整文法においては述部の欠如として不完全とされるが、即時文法では共有文脈や状況依存性により自然で通用する表現である。",
+      "description-en": "Ending a sentence with a noun is often considered incomplete in adjustment grammar due to the absence of a predicate, but in immediate grammar it functions naturally through shared context and situational cues.",
+      "examples": [
+        {
+          "ja": "明日、会議。",
+          "en": "Tomorrow, meeting."
+        },
+        {
+          "ja": "やるかどうかは、自分次第。",
+          "en": "Whether to do it or not depends on oneself."
+        }
+      ],
+      "tags": ["省略", "文脈依存", "述部欠如", "即時性"],
+      "level": "core",
+      "commentary-ja": "文末が名詞で終わる表現は、調整文法では述語の欠如として文法的に不完全と見なされがちです。しかし、即時文法の観点では、話し手と聞き手の間に共有された文脈や、視線・ジェスチャー・話し方のニュアンスによって、意味は完全に伝達されます。特に、時間・場所・出来事などを指示する文脈依存的な名詞は、強調・焦点・確認の機能を担っており、リアルタイムな言語活動に適合した形式といえます。",
+      "commentary-en": "Sentences ending in nouns are often viewed as incomplete in adjustment grammar due to the lack of a predicate. However, from the perspective of immediate grammar, such utterances are entirely functional and natural when context is shared. Especially in spoken language, nouns denoting time, place, or events serve to highlight or confirm information. Through shared attention and situational awareness, the listener easily grasps the intended meaning, making noun-ending sentences a fitting form for real-time expression."
+    },
+    {
+      "id": "subject-omission",
+      "title-ja": "主語の省略を認める",
+      "title-en": "Allowing Subject Omission",
+      "description-ja": "調整文法では主語の明示が基本とされるが、即時文法では一人称や二人称が共有されている場面では主語を省略した文が自然である。話し手と聞き手の関係性、状況、視線の共有により文の意味が成立する。",
+      "description-en": "While adjustment grammar generally requires the subject to be explicitly stated, immediate grammar naturally allows omission of the subject—especially first or second person—when the context is shared. The utterance remains meaningful through situational and interpersonal cues.",
+      "examples": [
+        {
+          "ja": "行ってきます。",
+          "en": "I'm off."
+        },
+        {
+          "ja": "ありがとう。",
+          "en": "Thank you."
+        },
+        {
+          "ja": "見た？",
+          "en": "Did you see it?"
+        }
+      ],
+      "tags": ["主語省略", "文脈依存", "共有前提", "即時性"],
+      "level": "core",
+      "commentary-ja": "即時文法においては、主語の省略はごく自然な発話の一部です。特に「私」や「あなた」のように文脈から容易に補える主語は、状況や視線、声の調子などによって聞き手にとって明確であるため、わざわざ言葉にする必要がないとされます。たとえば「ありがとう」「行ってきます」などは、主語がなくても誰が何をしているかが伝わる、即時的な言語使用の典型です。",
+      "commentary-en": "In immediate grammar, omitting the subject is a natural feature of real-time speech. Especially when the subject is easily inferable—like 'I' or 'you'—it becomes unnecessary to state it explicitly. The listener understands the meaning through shared context, gaze, tone, or the situation. Expressions like 'Thanks' or 'I'm off' function perfectly well without a subject, making them prime examples of immediate grammatical usage."
+    }
+  ]
+}
+
