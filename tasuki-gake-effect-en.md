@@ -1,7 +1,6 @@
 ### Tasuki-gake Effect
 
 Immediate grammar and adjustment grammar are typically used in distinct contexts:
-
 ![Taski-gake Effect](./figures/tasuki-gake-effect.png)
 
 - Immediate grammar is used in spontaneous, context-dependent utterances such as casual conversation or emotional reaction.
