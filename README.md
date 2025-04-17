@@ -1,6 +1,6 @@
 # igrules
 
-📅 Last change: 2025/04/17-20:36:49.
+📅 Last change: 2025/04/18-07:32:04.
 
 - [`ig-rules-ja-en.json`](./ig-rules-ja-en.json)
 
@@ -59,3 +59,9 @@ This repository documents expression patterns that are typically considered unac
 ## 👤 Author
 
 - Hilofumi Yamamoto, Ph.D., Institute of Science Tokyo
+
+## Definitions
+
+- **Immediate Grammar**: A type of grammar that is used in spontaneous, context-dependent utterances such as casual conversation or emotional reaction.
+- **Adjustive Grammar**: A type of grammar that is used in pre-structured, composed contexts such as formal speeches, letters, or ceremonial language.
+- **Tasuki-gake Effect**: [en](./tasuki-gake-effect-en.md) [ja](./tasuki-gake-effect-ja.md)A rhetorical effect that arises when immediate grammar is used in adjustment contexts or vice versa, producing expressive contrasts and heightened rhetorical impact.
