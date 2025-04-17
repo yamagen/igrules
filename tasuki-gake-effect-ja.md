@@ -2,7 +2,9 @@
 
 即時文法と調整文法は、通常はそれぞれ異なる文脈で使われる。
 
-![Taski-gake Effect](./figures/tasuki-gake-effect.png)
+<img src="./figures/tasuki-gake-effect.png" alt="Tasuki-gake Effect Diagram" width="400"/>
+
+_Figure: An illustration of the cross-directional effect between Immediate and Adjustive Grammar._
 
 - 即時文法は、日常会話や状況依存の発話など、即興的かつ自然な文脈で用いられる。
 - 調整文法は、文章化された発表・手紙・スピーチ原稿・あいさつなど、あらかじめ構成された文脈で用いられる。
