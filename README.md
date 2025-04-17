@@ -1,17 +1,12 @@
 # igrules
 
-📅 Last change: 2025/04/16-20:39:26.
+📅 Last change: 2025/04/17-20:36:49.
 
 - [`ig-rules-ja-en.json`](./ig-rules-ja-en.json)
 
 A bilingual collection of permissibility rules for Immediate Grammar
 
 > The name "igrules" comes from "Immediate Grammar Rules"—and sounds just a little like "Ig Nobel", but it's serious!
-
-# License
-
-This repository is licensed under the MIT License.
-See the LICENSE file for details.
 
 **igrules** is a project that documents permissibility rules for Immediate Grammar in a bilingual format (Japanese and English).
 
