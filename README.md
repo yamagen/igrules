@@ -1,6 +1,6 @@
 # igrules
 
-📅 Last change: 2025/04/18-15:23:54.
+📅 Last change: 2025/04/18-14:36:15.
 
 - [`ig-rules-ja-en.json`](./ig-rules-ja-en.json)
 
@@ -69,7 +69,7 @@ $ python tools/merge.py --include-hidden > ig-rules-all.json
 
 - Hilofumi Yamamoto, Ph.D., Institute of Science Tokyo
 
-## Definitions
+## 📖 Definitions
 
 - **Immediate Grammar**: A type of grammar that is used in spontaneous, context-dependent utterances such as casual conversation or emotional reaction.
 - **Adjustive Grammar**: A type of grammar that is used in pre-structured, composed contexts such as formal speeches, letters, or ceremonial language.
@@ -77,23 +77,12 @@ $ python tools/merge.py --include-hidden > ig-rules-all.json
 
 ---
 
-## 🧱 Design Philosophy
+## 🐿️ Mascot
 
-The igrules project adopts a modular and layered design to ensure clarity, maintainability, and extensibility.
+Meet **Igrisu**, the squirrel of spoken spontaneity!  
+She scurries through the forest of language, collecting spontaneous expressions and storing them as scrolls in her cheeks.
 
-- Each rule is defined in its own JSON file under `json/`, containing only the core descriptive content (`title`, `description`, `examples`, etc.).
-- Metadata such as `author`, `license`, and `affiliation` is defined once in `json/meta.json`.
-- Rule publication status, ordering, and editorial control are handled in `json/order.json`, which defines:
-  - `id`: Rule identifier
-  - `visible`: Whether the rule is included in public merges
-  - `status`: e.g., `draft`, `review`, `published`
-- Additional review records (`reviewer`, `review-date`) and notes can be added directly within each rule file under `reviews` and `note`.
+Her mentor, **Iguresu**, carefully observes and documents the patterns behind these expressions.  
+Together, they represent the dual spirit of immediate and adjustive grammar — one quick and playful, the other thoughtful and precise.
 
-This separation of concerns enables:
-
-- Clear version control
-- Selective publishing (draft rules can be excluded)
-- Structured collaboration and editorial workflows
-- Future extensions like categorization, dependency graphs, and rule groupings
-
-This design reflects not only the linguistic nature of immediate grammar but also a practical approach to knowledge organization.
+> “Structure from spontaneity.” — Igrisu & Iguresu
