@@ -1,6 +1,6 @@
 # igrules
 
-📅 Last change: 2025/04/18-14:36:15.
+<img src="./figures/igrisu.png" width="100">
 
 - [`ig-rules-ja-en.json`](./ig-rules-ja-en.json)
 
