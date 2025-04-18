@@ -1,6 +1,6 @@
 # igrules
 
-📅 Last change: 2025/04/18-14:36:15.
+📅 Last change: 2025/04/18-15:23:54.
 
 - [`ig-rules-ja-en.json`](./ig-rules-ja-en.json)
 
@@ -34,7 +34,7 @@ $ python tools/merge.py > ig-rules-ja-en.json
 $ python tools/merge.py --include-hidden > ig-rules-all.json
 ```
 
-## Structure
+## 🗂️ Structure
 
 - `ig-rules-ja-en.json`:
   - The main body of the immediate grammar rules (bilingual)
@@ -90,6 +90,7 @@ The igrules project adopts a modular and layered design to ensure clarity, maint
 - Additional review records (`reviewer`, `review-date`) and notes can be added directly within each rule file under `reviews` and `note`.
 
 This separation of concerns enables:
+
 - Clear version control
 - Selective publishing (draft rules can be excluded)
 - Structured collaboration and editorial workflows
