@@ -1,0 +1,26 @@
+{
+  "id": "clause-order",
+  "title-ja": "従属節の前置・後置に自由度がある",
+  "title-en": "Subordinate clauses can precede or follow the main clause",
+  "description-ja": "即時文法においては、理由・条件・譲歩などの従属節は、文頭・文末のいずれに配置しても自然であり、語りの流れや焦点によって順序が柔軟に決定される。",
+  "description-en": "In immediate grammar, subordinate clauses (e.g., reason, condition, concession) can be placed before or after the main clause, depending on the flow of speech or focus.",
+  "examples": [
+    {
+      "ja": "雨が降ったけど、行った。",
+      "en": "Though it rained, I went."
+    },
+    {
+      "ja": "行った、雨が降ったけど。",
+      "en": "I went, though it rained."
+    }
+  ],
+  "tags": [
+    "節の順序",
+    "文脈依存",
+    "焦点移動",
+    "即時性"
+  ],
+  "level": "advanced",
+  "commentary-ja": "即時的な語りでは、従属節の配置は固定されず、発話のテンポや感情の起伏に応じて前後することがある。特に、理由や条件を後置することは、事後的な説明として自然に受け取られる。",
+  "commentary-en": "In real-time speech, the position of subordinate clauses is flexible. Placing the clause after the main clause often feels like an afterthought or emotional reveal, which suits the immediacy of expression."
+}

@@ -1,0 +1,40 @@
+{
+  "_license": "This JSON file is licensed under CC-BY-SA 4.0",
+  "author": "Hilofumi Yamamoto, Ph.D.",
+  "affiliation": "Institute of Science Tokyo",
+  "id": "phrase-order",
+  "title-ja": "句内語順は厳格だが、句間語順は比較的自由である",
+  "title-en": "Phrase-internal word order is fixed, but phrase order is relatively free",
+  "description-ja": "即時文法では、語と語がひとまとまりとなる句の内部では語順の制約が強いが、句と句の並び順は状況や意図に応じて柔軟に変化しうる。これは話し手の焦点や強調、記憶の順序に応じた自然な発話構造である。",
+  "description-en": "In immediate grammar, word order within a phrase tends to be fixed due to grammatical cohesion, but the order between phrases can be more flexible. This reflects the speaker's focus, emphasis, and the natural sequencing of thoughts in real-time utterances.",
+  "examples": [
+    {
+      "ja": "明日、会議。",
+      "en": "Tomorrow, meeting."
+    },
+    {
+      "ja": "会議、明日。",
+      "en": "Meeting, tomorrow."
+    },
+    {
+      "ja": "先生に、聞いてみた。",
+      "en": "I asked the teacher."
+    },
+    {
+      "ja": "聞いてみた、先生に。",
+      "en": "I tried asking — the teacher."
+    }
+  ],
+  "tags": [
+    "語順",
+    "句構造",
+    "即時性",
+    "焦点",
+    "順序の柔軟性"
+  ],
+  "level": "core",
+  "commentary-ja": "句の中では、たとえば「ご飯 美味しい」より「美味しい ご飯」の方が自然であるように、語の並びに一定の規則がある。しかし、句と句の順番は、文脈や感情によって前後しても違和感が少ない。たとえば「明日、会議」と「会議、明日」は、どちらも意味が通じるが、焦点の位置やリズムが異なる。即時文法では、このような句の間の柔軟な語順を許容する。",
+  "commentary-en": "Within a phrase, word order is usually fixed—for example, 'delicious food' sounds more natural than 'food delicious.' However, the order of phrases can shift depending on context and emotion. 'Tomorrow, meeting.' and 'Meeting, tomorrow.' are both acceptable in real-time speech, with different nuances. Immediate grammar allows for this flexible phrase-level ordering based on focus and flow of thought.",
+  "note": "",
+  "reviews": []
+}

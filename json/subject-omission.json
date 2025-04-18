@@ -1,0 +1,35 @@
+{
+  "_license": "This JSON file is licensed under CC-BY-SA 4.0",
+  "author": "Hilofumi Yamamoto, Ph.D.",
+  "affiliation": "Institute of Science Tokyo",
+  "id": "subject-omission",
+  "title-ja": "主語の省略を認める",
+  "title-en": "Allowing Subject Omission",
+  "description-ja": "調整文法では主語の明示が基本とされるが、即時文法では一人称や二人称が共有されている場面では主語を省略した文が自然である。話し手と聞き手の関係性、状況、視線の共有により文の意味が成立する。",
+  "description-en": "While adjustment grammar generally requires the subject to be explicitly stated, immediate grammar naturally allows omission of the subject—especially first or second person—when the context is shared. The utterance remains meaningful through situational and interpersonal cues.",
+  "examples": [
+    {
+      "ja": "行ってきます。",
+      "en": "I'm off."
+    },
+    {
+      "ja": "ありがとう。",
+      "en": "Thank you."
+    },
+    {
+      "ja": "見た？",
+      "en": "Did you see it?"
+    }
+  ],
+  "tags": [
+    "主語省略",
+    "文脈依存",
+    "共有前提",
+    "即時性"
+  ],
+  "level": "core",
+  "commentary-ja": "即時文法においては、主語の省略はごく自然な発話の一部です。特に「私」や「あなた」のように文脈から容易に補える主語は、状況や視線、声の調子などによって聞き手にとって明確であるため、わざわざ言葉にする必要がないとされます。たとえば「ありがとう」「行ってきます」などは、主語がなくても誰が何をしているかが伝わる、即時的な言語使用の典型です。",
+  "commentary-en": "In immediate grammar, omitting the subject is a natural feature of real-time speech. Especially when the subject is easily inferable—like 'I' or 'you'—it becomes unnecessary to state it explicitly. The listener understands the meaning through shared context, gaze, tone, or the situation. Expressions like 'Thanks' or 'I'm off' function perfectly well without a subject, making them prime examples of immediate grammatical usage.",
+  "note": "",
+  "reviews": []
+}

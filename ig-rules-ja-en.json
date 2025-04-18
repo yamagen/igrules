@@ -19,10 +19,17 @@
           "en": "Whether to do it or not depends on oneself."
         }
       ],
-      "tags": ["省略", "文脈依存", "述部欠如", "即時性"],
+      "tags": [
+        "省略",
+        "文脈依存",
+        "述部欠如",
+        "即時性"
+      ],
       "level": "core",
       "commentary-ja": "文末が名詞で終わる表現は、調整文法では述語の欠如として文法的に不完全と見なされがちです。しかし、即時文法の観点では、話し手と聞き手の間に共有された文脈や、視線・ジェスチャー・話し方のニュアンスによって、意味は完全に伝達されます。特に、時間・場所・出来事などを指示する文脈依存的な名詞は、強調・焦点・確認の機能を担っており、リアルタイムな言語活動に適合した形式といえます。",
-      "commentary-en": "Sentences ending in nouns are often viewed as incomplete in adjustment grammar due to the lack of a predicate. However, from the perspective of immediate grammar, such utterances are entirely functional and natural when context is shared. Especially in spoken language, nouns denoting time, place, or events serve to highlight or confirm information. Through shared attention and situational awareness, the listener easily grasps the intended meaning, making noun-ending sentences a fitting form for real-time expression."
+      "commentary-en": "Sentences ending in nouns are often viewed as incomplete in adjustment grammar due to the lack of a predicate. However, from the perspective of immediate grammar, such utterances are entirely functional and natural when context is shared. Especially in spoken language, nouns denoting time, place, or events serve to highlight or confirm information. Through shared attention and situational awareness, the listener easily grasps the intended meaning, making noun-ending sentences a fitting form for real-time expression.",
+      "note": "",
+      "reviews": []
     },
     {
       "id": "subject-omission",
@@ -44,10 +51,17 @@
           "en": "Did you see it?"
         }
       ],
-      "tags": ["主語省略", "文脈依存", "共有前提", "即時性"],
+      "tags": [
+        "主語省略",
+        "文脈依存",
+        "共有前提",
+        "即時性"
+      ],
       "level": "core",
       "commentary-ja": "即時文法においては、主語の省略はごく自然な発話の一部です。特に「私」や「あなた」のように文脈から容易に補える主語は、状況や視線、声の調子などによって聞き手にとって明確であるため、わざわざ言葉にする必要がないとされます。たとえば「ありがとう」「行ってきます」などは、主語がなくても誰が何をしているかが伝わる、即時的な言語使用の典型です。",
-      "commentary-en": "In immediate grammar, omitting the subject is a natural feature of real-time speech. Especially when the subject is easily inferable—like 'I' or 'you'—it becomes unnecessary to state it explicitly. The listener understands the meaning through shared context, gaze, tone, or the situation. Expressions like 'Thanks' or 'I'm off' function perfectly well without a subject, making them prime examples of immediate grammatical usage."
+      "commentary-en": "In immediate grammar, omitting the subject is a natural feature of real-time speech. Especially when the subject is easily inferable—like 'I' or 'you'—it becomes unnecessary to state it explicitly. The listener understands the meaning through shared context, gaze, tone, or the situation. Expressions like 'Thanks' or 'I'm off' function perfectly well without a subject, making them prime examples of immediate grammatical usage.",
+      "note": "",
+      "reviews": []
     },
     {
       "id": "particle-omission",
@@ -69,7 +83,12 @@
           "en": "Did you read this book?"
         }
       ],
-      "tags": ["助詞省略", "文脈依存", "即時性", "語順依存"],
+      "tags": [
+        "助詞省略",
+        "文脈依存",
+        "即時性",
+        "語順依存"
+      ],
       "level": "core",
       "notes-ja": {
         "助詞省略の制約": "格助詞「が」「を」は語順が入れ替わっても省略されることが多いが、「に」「で」「を」などが方向性・場所・到着点・出発点を表す場合、省略すると格関係が不明確になる。特に語順を入れ替えた場合は、主格や目的格との混同を招くため、省略は許容されない。たとえば「先生に聞いた」は「聞いた先生」では意味が曖昧になるため、「に」の助詞は必須となる。",
@@ -80,7 +99,9 @@
         "Effects of particle omission": "Omitting particles places the listener in a position to infer meaning from context and situation, giving the utterance a sense of spatial openness, smooth delivery, and immediacy. However, when the situational context is not shared, omission can lead to misunderstanding, making its effectiveness highly dependent on mutual assumptions."
       },
       "commentary-ja": "即時文法においては、助詞の省略は非常に一般的です。特に「を」「が」のような目的格・主格の助詞は、語順が変化しても意味が明確に伝わるため、省略されたままでも自然な表現とされます。一方、「に」「で」などの間接目的や場所などを表す助詞は、語順が入れ替わると格関係が不明瞭になるため、省略せずに明示することが求められる場面もあります。",
-      "commentary-en": "In immediate grammar, omission of particles is very common. Particularly, subject ('ga') and object ('o') markers can often be omitted even when word order is reversed, because the meaning remains clear. However, particles like 'ni' or 'de' that mark indirect objects or locations may need to be retained when the phrase order changes, to prevent ambiguity in the grammatical relationship."
+      "commentary-en": "In immediate grammar, omission of particles is very common. Particularly, subject ('ga') and object ('o') markers can often be omitted even when word order is reversed, because the meaning remains clear. However, particles like 'ni' or 'de' that mark indirect objects or locations may need to be retained when the phrase order changes, to prevent ambiguity in the grammatical relationship.",
+      "note": "",
+      "reviews": []
     },
     {
       "id": "phrase-order",
@@ -106,10 +127,44 @@
           "en": "I tried asking — the teacher."
         }
       ],
-      "tags": ["語順", "句構造", "即時性", "焦点", "順序の柔軟性"],
+      "tags": [
+        "語順",
+        "句構造",
+        "即時性",
+        "焦点",
+        "順序の柔軟性"
+      ],
       "level": "core",
       "commentary-ja": "句の中では、たとえば「ご飯 美味しい」より「美味しい ご飯」の方が自然であるように、語の並びに一定の規則がある。しかし、句と句の順番は、文脈や感情によって前後しても違和感が少ない。たとえば「明日、会議」と「会議、明日」は、どちらも意味が通じるが、焦点の位置やリズムが異なる。即時文法では、このような句の間の柔軟な語順を許容する。",
-      "commentary-en": "Within a phrase, word order is usually fixed—for example, 'delicious food' sounds more natural than 'food delicious.' However, the order of phrases can shift depending on context and emotion. 'Tomorrow, meeting.' and 'Meeting, tomorrow.' are both acceptable in real-time speech, with different nuances. Immediate grammar allows for this flexible phrase-level ordering based on focus and flow of thought."
+      "commentary-en": "Within a phrase, word order is usually fixed—for example, 'delicious food' sounds more natural than 'food delicious.' However, the order of phrases can shift depending on context and emotion. 'Tomorrow, meeting.' and 'Meeting, tomorrow.' are both acceptable in real-time speech, with different nuances. Immediate grammar allows for this flexible phrase-level ordering based on focus and flow of thought.",
+      "note": "",
+      "reviews": []
+    },
+    {
+      "id": "clause-order",
+      "title-ja": "従属節の前置・後置に自由度がある",
+      "title-en": "Subordinate clauses can precede or follow the main clause",
+      "description-ja": "即時文法においては、理由・条件・譲歩などの従属節は、文頭・文末のいずれに配置しても自然であり、語りの流れや焦点によって順序が柔軟に決定される。",
+      "description-en": "In immediate grammar, subordinate clauses (e.g., reason, condition, concession) can be placed before or after the main clause, depending on the flow of speech or focus.",
+      "examples": [
+        {
+          "ja": "雨が降ったけど、行った。",
+          "en": "Though it rained, I went."
+        },
+        {
+          "ja": "行った、雨が降ったけど。",
+          "en": "I went, though it rained."
+        }
+      ],
+      "tags": [
+        "節の順序",
+        "文脈依存",
+        "焦点移動",
+        "即時性"
+      ],
+      "level": "advanced",
+      "commentary-ja": "即時的な語りでは、従属節の配置は固定されず、発話のテンポや感情の起伏に応じて前後することがある。特に、理由や条件を後置することは、事後的な説明として自然に受け取られる。",
+      "commentary-en": "In real-time speech, the position of subordinate clauses is flexible. Placing the clause after the main clause often feels like an afterthought or emotional reveal, which suits the immediacy of expression."
     }
   ]
 }

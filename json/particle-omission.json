@@ -1,0 +1,43 @@
+{
+  "_license": "This JSON file is licensed under CC-BY-SA 4.0",
+  "author": "Hilofumi Yamamoto, Ph.D.",
+  "affiliation": "Institute of Science Tokyo",
+  "id": "particle-omission",
+  "title-ja": "助詞の省略を認める",
+  "title-en": "Allowing Particle Omission",
+  "description-ja": "調整文法では格助詞の明示が文の構造を支える要素とされ、省略は文法的誤りとされる場合が多い。しかし、即時文法では語順や共有文脈によって格関係が明示されなくても自然に理解されるため、助詞の省略は日常的な発話の中で頻繁に起こる。",
+  "description-en": "In adjustment grammar, case particles are considered essential for maintaining grammatical structure, and their omission is often treated as incorrect. In immediate grammar, however, word order and shared context often make the relationship clear without explicit particles, so omission is frequent and natural in real-time speech.",
+  "examples": [
+    {
+      "ja": "ご飯、食べた？",
+      "en": "You ate dinner?"
+    },
+    {
+      "ja": "先生、聞いた？",
+      "en": "Did you ask the teacher?"
+    },
+    {
+      "ja": "この本、読んだ？",
+      "en": "Did you read this book?"
+    }
+  ],
+  "tags": [
+    "助詞省略",
+    "文脈依存",
+    "即時性",
+    "語順依存"
+  ],
+  "level": "core",
+  "notes-ja": {
+    "助詞省略の制約": "格助詞「が」「を」は語順が入れ替わっても省略されることが多いが、「に」「で」「を」などが方向性・場所・到着点・出発点を表す場合、省略すると格関係が不明確になる。特に語順を入れ替えた場合は、主格や目的格との混同を招くため、省略は許容されない。たとえば「先生に聞いた」は「聞いた先生」では意味が曖昧になるため、「に」の助詞は必須となる。",
+    "助詞省略の効果": "助詞を省略することで、受け手は文脈や状況を自ら補う必要が生じ、発話に空間的な広がりやスピード感、そして発話者の自然なリズムが含まれる。ただし、共有されていない状況では誤解を招く可能性があるため、省略の効果は受け手との前提共有に依存する。"
+  },
+  "notes-en": {
+    "Constraints on particle omission": "While particles like 'ga' and 'o' (subject and object markers) can often be omitted even with word order changes, particles such as 'ni', 'de', and 'o'—when indicating direction, location, destination, or origin—must be retained. Omitting them makes the grammatical roles unclear. Especially when the word order is reversed, omission can lead to confusion with subject or object roles, and the particle must be explicitly stated.",
+    "Effects of particle omission": "Omitting particles places the listener in a position to infer meaning from context and situation, giving the utterance a sense of spatial openness, smooth delivery, and immediacy. However, when the situational context is not shared, omission can lead to misunderstanding, making its effectiveness highly dependent on mutual assumptions."
+  },
+  "commentary-ja": "即時文法においては、助詞の省略は非常に一般的です。特に「を」「が」のような目的格・主格の助詞は、語順が変化しても意味が明確に伝わるため、省略されたままでも自然な表現とされます。一方、「に」「で」などの間接目的や場所などを表す助詞は、語順が入れ替わると格関係が不明瞭になるため、省略せずに明示することが求められる場面もあります。",
+  "commentary-en": "In immediate grammar, omission of particles is very common. Particularly, subject ('ga') and object ('o') markers can often be omitted even when word order is reversed, because the meaning remains clear. However, particles like 'ni' or 'de' that mark indirect objects or locations may need to be retained when the phrase order changes, to prevent ambiguity in the grammatical relationship.",
+  "note": "",
+  "reviews": []
+}

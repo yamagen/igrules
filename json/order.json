@@ -1,0 +1,7 @@
+[
+  { "id": "noun-ending", "visible": true, "status": "published" },
+  { "id": "subject-omission", "visible": true, "status": "published" },
+  { "id": "particle-omission", "visible": true, "status": "review" },
+  { "id": "phrase-order", "visible": true, "status": "review" },
+  { "id": "clause-order", "visible": true, "status": "draft" }
+]

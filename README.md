@@ -1,6 +1,6 @@
 # igrules
 
-📅 Last change: 2025/04/18-07:33:16.
+📅 Last change: 2025/04/18-14:36:15.
 
 - [`ig-rules-ja-en.json`](./ig-rules-ja-en.json)
 
@@ -24,6 +24,15 @@ This repository documents expression patterns that are typically considered unac
 - Educators: Introducing as a variation of grammar
 
 ---
+
+## 📜 Tools
+
+- **JSON**: The main body of the immediate grammar rules is in JSON format.
+
+```
+$ python tools/merge.py > ig-rules-ja-en.json
+$ python tools/merge.py --include-hidden > ig-rules-all.json
+```
 
 ## Structure
 
@@ -65,3 +74,25 @@ This repository documents expression patterns that are typically considered unac
 - **Immediate Grammar**: A type of grammar that is used in spontaneous, context-dependent utterances such as casual conversation or emotional reaction.
 - **Adjustive Grammar**: A type of grammar that is used in pre-structured, composed contexts such as formal speeches, letters, or ceremonial language.
 - **Tasuki-gake Effect** [en](./tasuki-gake-effect-en.md) [ja](./tasuki-gake-effect-ja.md): A rhetorical effect that arises when immediate grammar is used in adjustment contexts or vice versa, producing expressive contrasts and heightened rhetorical impact.
+
+---
+
+## 🧱 Design Philosophy
+
+The igrules project adopts a modular and layered design to ensure clarity, maintainability, and extensibility.
+
+- Each rule is defined in its own JSON file under `json/`, containing only the core descriptive content (`title`, `description`, `examples`, etc.).
+- Metadata such as `author`, `license`, and `affiliation` is defined once in `json/meta.json`.
+- Rule publication status, ordering, and editorial control are handled in `json/order.json`, which defines:
+  - `id`: Rule identifier
+  - `visible`: Whether the rule is included in public merges
+  - `status`: e.g., `draft`, `review`, `published`
+- Additional review records (`reviewer`, `review-date`) and notes can be added directly within each rule file under `reviews` and `note`.
+
+This separation of concerns enables:
+- Clear version control
+- Selective publishing (draft rules can be excluded)
+- Structured collaboration and editorial workflows
+- Future extensions like categorization, dependency graphs, and rule groupings
+
+This design reflects not only the linguistic nature of immediate grammar but also a practical approach to knowledge organization.
